@@ -750,3 +750,4 @@
 "The macro you selected references this macro, which will cause them to run each other forever! Change one of the references to fix this." = "您选择的宏引用了此宏,这将导致它们无限运行!更改一个引用来修复此问题.";
 
 "If you'd like to hear about major updates, you\ncan sign up for our newsletter in the menu bar\nunder Keysmith > Sign up for Newsletter..." = "如果您想了解重大更新,可以在菜单栏中的Keysmith>注册通讯进行注册";
+
