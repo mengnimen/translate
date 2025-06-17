@@ -1,0 +1,27 @@
+/* Class = "NSButtonCell"; title = "Turn on ‘Download Using Web Views’"; ObjectID = "SeF-an-NsN"; */
+"SeF-an-NsN.title" = "打开 ‘使用浏览器下载’";
+
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "VBY-jK-us8"; */
+"VBY-jK-us8.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Apply archive.org Settings"; ObjectID = "VyF-nl-dbf"; */
+"VyF-nl-dbf.title" = "应用 archive.org 设置";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "WN7-fw-n2t"; */
+"WN7-fw-n2t.title" = "同意";
+
+/* Class = "NSButtonCell"; title = "Turn on ‘Include Supporting Files’"; ObjectID = "bCg-8g-dPF"; */
+"bCg-8g-dPF.title" = "打开 ‘包含支持文件’";
+
+/* Class = "NSButtonCell"; title = "Turn on ‘Ignore Robot Exclusions’"; ObjectID = "jPm-S3-BOs"; */
+"jPm-S3-BOs.title" = "打开 ‘忽略机器人排除’";
+
+/* Class = "NSButtonCell"; title = "Turn on ‘Ignore rel=\"nofollow\"’"; ObjectID = "oQi-gn-w4i"; */
+"oQi-gn-w4i.title" = "打开 ‘Ignore rel=\"nofollow\"’";
+
+/* Class = "NSButtonCell"; title = "Set ‘Identity’ to ‘Web View’"; ObjectID = "ywj-bS-i5K"; */
+"ywj-bS-i5K.title" = "设置 ‘Identity’ to ‘Web View’";
+
+/* Class = "NSButtonCell"; title = "Turn on ‘text/html’"; ObjectID = "zig-k0-nuX"; */
+"zig-k0-nuX.title" = "打开 ‘text/html’";

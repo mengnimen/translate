@@ -1,0 +1,9 @@
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "Bwj-sY-biT"; */
+"Bwj-sY-biT.title" = "完成";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "Y4U-NS-Jd3"; */
+"Y4U-NS-Jd3.title" = "完成";
+
+/* Class = "NSTableColumn"; headerCell.title = "Queue"; ObjectID = "wPF-S0-NlW"; */
+"wPF-S0-NlW.headerCell.title" = "列队";
